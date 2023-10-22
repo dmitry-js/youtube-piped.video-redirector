@@ -1,0 +1,12 @@
+.main-button {
+    background: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 9999;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    margin-right: 10px;
+}
